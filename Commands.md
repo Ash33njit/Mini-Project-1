@@ -8,9 +8,7 @@
 
 ### Pwd: This command stands for print working directory. What this means is that it will return back text letting you know what directory you are operating from. For example if I were in my documents folder and I entered “pwd”, the terminal says: /Users/adibhaque/documents
 
-### mv: This command lets you move a file/rename a file and put it in a new destination. The command reads mv which_file destination. We would use this in instances where we need to move a file from one location to another, or create a copy of a file with a different name. An example of this would be if I wanted to move a file called Assignment1 in my documents to my school folder. I would enter 
-“mv Assignment1 /Users/adibhaque/Documents/School” 
-This will place my file into my school directory
+### mv: This command lets you move a file/rename a file and put it in a new destination. The command reads mv which_file destination. We would use this in instances where we need to move a file from one location to another, or create a copy of a file with a different name. An example of this would be if I wanted to move a file called Assignment1 in my documents to my school folder. I would enter “mv Assignment1 /Users/adibhaque/Documents/School” This will place my file into my school directory
 
 ### rm: Is a command used to remove files specified on a command line. This is used when we need to remove specific files from directories. By Default it cannot remove directories unless specified using the recursive options (-r, -R, --recursive). An example of this is if I were in my school directory and needed to remove a file from there that is not relevant to school I can enter “rm Finances.docx” and it will remove the Finances.docx file from the directory.
 
