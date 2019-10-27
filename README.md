@@ -10,6 +10,7 @@ developers and softwware engineers
 
 # Sources
 ###### *https://help.ubuntu.com/community/UsingTheTerminal*
+###### *https://datasift.github.io/gitflow/IntroducingGitFlow.html*
 
 # Changelog
 ## 10/26/19
