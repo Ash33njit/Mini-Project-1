@@ -1,7 +1,7 @@
 # Commands
 
 ## ***cd***: 
-This stands for change directory. It is used when the user wants to navigate through folders and change to a different directory to access different files and folders. If you enter "cd" in your terminal and press return/enter, you will go back to your home folder. "cd /" will go to your root directory. "cd .." will go to the directory above the one you are in. "cd -" will go back to the directory you were in last time before you used a cd command. 
+###### This stands for change directory. It is used when the user wants to navigate through folders and change to a different directory to access different files and folders. If you enter "cd" in your terminal and press return/enter, you will go back to your home folder. "cd /" will go to your root directory. "cd .." will go to the directory above the one you are in. "cd -" will go back to the directory you were in last time before you used a cd command. 
 
 ## ***mkdir***: 
 This command creates a directory where they do not already exist. You would use this when navigating through the files and folders on your computer and need to create a new directory for certain files. An example of this would be if you wanted to make a new directory to house all 2019 files, you would enter "mkdir Files-19". This would create a directory called Files-19 where we can store all our 2019 files.
