@@ -21,7 +21,7 @@
 ## ***History***:
 ###### This command is used to show a list of all the commands you have entered on the command line since you started your session. To do so you would enter “history”. It will display a list of all the commands you have used. For me it shows nearly 74 commands entered. This is useful in situations where you need to know if you did a command earlier and forgot, or if you want to recall a command you used earlier. 
 
-## ***Home directory and ~***:
+## ***Home directory and ~:***
 ###### The ~ stands for tilde and is a shortcut to represent a user’s home directory. For example my home directory has a file called image1.jpeg. PWD for this would be, /Users/adibhaque/image1.jpeg. The directory this file is located in can also be known as ~/image1.jpeg. 
 
 ## ***file paths in Linux***:
