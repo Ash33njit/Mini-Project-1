@@ -14,6 +14,12 @@ The productivity and effectiveness of companies can be substantially improved th
 # Sources
 ###### *https://help.ubuntu.com/community/UsingTheTerminal*
 ###### *https://datasift.github.io/gitflow/IntroducingGitFlow.html*
+###### *https://git-scm.com/docs*
+###### *https://confluence.atlassian.com/alldoc/atlassian-documentation-32243719.html*
+###### *https://guides.github.com/*
+###### *https://help.github.com/en*
+###### *https://linuxacademy.com/how-to-guides/*
+###### *https://blog.axosoft.com/*
 
 # Changelog
 ## 10/26/19
