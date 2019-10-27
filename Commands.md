@@ -9,18 +9,22 @@
 ###### This command creates a directory where they do not already exist. You would use this when navigating through the files and folders on your computer and need to create a new directory for certain files. An example of this would be if you wanted to make a new directory to house all 2019 files, you would enter "mkdir Files-19". This would create a directory called Files-19 where we can store all our 2019 files.
 
 ## ***cp***: 
+![Image of cp Command](https://github.com/Ash33njit/Mini-Project-1/blob/master/copy.png)
 ###### This command is used to copy files and/or directories. The command is used when we need to make copies of our files and move them around whether it be for backup reasons or etc. An example of this being used is “cp Files-19 Files-All”. This example shows the entire Files-19 directory is copied over to Files-All with the use of command “cp”
 
 ## ***Pwd***: 
+![Image of pwd Command](https://github.com/Ash33njit/Mini-Project-1/blob/master/pwd.png)
 ###### This command stands for print working directory. What this means is that it will return back text letting you know what directory you are operating from. For example if I were in my documents folder and I entered “pwd”, the terminal says: /Users/adibhaque/documents
 
 ## ***mv***: 
+![Image of mv Command](https://github.com/Ash33njit/Mini-Project-1/blob/master/mv.png)
 ###### This command lets you move a file/rename a file and put it in a new destination. The command reads mv which_file destination. We would use this in instances where we need to move a file from one location to another, or create a copy of a file with a different name. An example of this would be if I wanted to move a file called Assignment1 in my documents to my school folder. I would enter “mv Assignment1 /Users/adibhaque/Documents/School” This will place my file into my school directory
 
 ## ***rm***:
 ###### Is a command used to remove files specified on a command line. This is used when we need to remove specific files from directories. By Default it cannot remove directories unless specified using the recursive options (-r, -R, --recursive). An example of this is if I were in my school directory and needed to remove a file from there that is not relevant to school I can enter “rm Finances.docx” and it will remove the Finances.docx file from the directory.
 
 ## ***History***:
+![Image of History Command](https://github.com/Ash33njit/Mini-Project-1/blob/master/history.png)
 ###### This command is used to show a list of all the commands you have entered on the command line since you started your session. To do so you would enter “history”. It will display a list of all the commands you have used. For me it shows nearly 74 commands entered. This is useful in situations where you need to know if you did a command earlier and forgot, or if you want to recall a command you used earlier. 
 
 ## ***Home directory and ~:***
