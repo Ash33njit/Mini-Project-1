@@ -18,6 +18,45 @@ The productivity and effectiveness of companies can be substantially improved th
 # Changelog
 ## 10/26/19
 
+### Feature: Added New Images
+###### @Ash33njit
+
+### Feature: Uploaded Image Files
+###### @Ash33njit
+
+### Fix: Added back removed text
+###### @Ash33njit
+
+### Update: Merge pull request #4 from tommy-diez/patch-4
+###### @Ash33njit
+
+### Update README.md
+###### @tommy-diez
+
+### Feature: Added Images
+###### @Ash33njit
+
+### Feature: Added image files to github repo
+###### @Ash33njit
+
+### Update README.md
+###### @Ash33njit
+
+### Feature: Added Sources Header
+###### @Ash33njit
+
+### Fix: Removed Images
+###### @Ash33njit
+
+### Feature: Added Some images to go along with command
+###### @Ash33njit
+
+### Feature: Added 10/26/19 Changelog Updated Styles
+###### @Ash33njit
+
+### Update: Added Changelog From 10/21/19
+###### @Ash33njit
+
 ### Feature: Added Change Log Header
 ###### @Ash33njit
 
