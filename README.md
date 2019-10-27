@@ -7,3 +7,5 @@ This defines all the commands most commonly used in linux and how we use it
 # [GIT Commands](GITCommands.md)
 This defines the most commonly used commands in git and how they can aid in productivity for 
 developers and softwware engineers 
+
+# Changelog
